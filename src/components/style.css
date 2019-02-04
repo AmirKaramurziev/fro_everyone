@@ -1,0 +1,6 @@
+:local(.mainComponent){
+ background-color: blue;
+}
+:local(.blueClass){
+    background-color: red;
+}
